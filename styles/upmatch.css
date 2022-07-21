@@ -222,10 +222,12 @@ Home section Style
 }
 #button-1{
     border-radius: 6px;
+    cursor: pointer;
 
 }
 #button-2{
     border-radius: 6px;
+    cursor: pointer;
 
 }
 
@@ -233,6 +235,7 @@ Home section Style
     background-color: #DD0000;
     color:#FFFFFF;
     border-radius: 6px;
+    cursor: pointer;
    
 
 }

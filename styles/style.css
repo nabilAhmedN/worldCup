@@ -166,11 +166,12 @@ Home section Style
 /* Common Button */
 #button-1{
     border-radius: 6px;
+    cursor: pointer;
 
 }
 #button-2{
     border-radius: 6px;
-
+    cursor: pointer;
 }
 
 /* selected button */
@@ -178,6 +179,7 @@ Home section Style
     background-color: #DD0000;
     color:#FFFFFF;
     border-radius: 6px;
+    cursor: pointer;
    
 
 }
